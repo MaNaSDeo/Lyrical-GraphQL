@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "Starter point for a graphQL course",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/StephenGrider/Lyrical-GraphQL"
-  },
   "scripts": {
     "dev": "nodemon index.js --ignore client"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaNaSDeo/Lyrical-GraphQL.git"
+  },
+  "author": "MaNaSDeo",
   "license": "ISC",
   "dependencies": {
     "apollo-client": "^0.8.1",
